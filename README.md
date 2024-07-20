@@ -6,7 +6,6 @@ image with default tools for git to svn sync
 
 ### Build the image
 
-set desired version
 `docker build -t pipelines-svn .`
 
 ### Run the image
